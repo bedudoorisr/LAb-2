@@ -1,0 +1,6 @@
+E:\Personal\Ayyappan\GeometricApp\GeometricFigureHandler\bin\Debug\GeometricFigureHandler.dll
+E:\Personal\Ayyappan\GeometricApp\GeometricFigureHandler\bin\Debug\GeometricFigureHandler.pdb
+E:\Personal\Ayyappan\GeometricApp\GeometricFigureHandler\obj\Debug\GeometricFigureHandler.csprojResolveAssemblyReference.cache
+E:\Personal\Ayyappan\GeometricApp\GeometricFigureHandler\obj\Debug\GeometricFigureHandler.csproj.CoreCompileInputs.cache
+E:\Personal\Ayyappan\GeometricApp\GeometricFigureHandler\obj\Debug\GeometricFigureHandler.dll
+E:\Personal\Ayyappan\GeometricApp\GeometricFigureHandler\obj\Debug\GeometricFigureHandler.pdb
